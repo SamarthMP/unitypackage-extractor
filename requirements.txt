@@ -1,0 +1,1 @@
+show-in-file-manager==1.1.4
