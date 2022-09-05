@@ -6,4 +6,3 @@ move "dist\unityextract.exe" ".\"
 
 rmdir /Q /S dist
 rmdir /Q /S build
-del main.spec
